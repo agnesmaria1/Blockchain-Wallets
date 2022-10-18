@@ -10,8 +10,6 @@ This project leverages python 3.9 with the following package:
 
 * [VSCode](https://code.visualstudio.com/) - Code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-* [Pandas](https://pandas.pydata.org/) - Entry point, open source data analysis and manipulation tool.
-
 * [Streamlit](https://streamlit.io/) - Open-source app framework for Machine Learning and Data Science teams.
 
 * [haslib](https://docs.python.org/3/library/hashlib.html) - Secure hash and message digest algorithm library.
@@ -66,6 +64,25 @@ from your local terminal clone the repo then type
 ```
 streamlit run fintech_finder.py
 ```
+
+Below images are output from streamlit:
+
+Hire Lane
+
+<img width="1440" alt="Lane" src="https://user-images.githubusercontent.com/105394703/196491181-fd29f4af-7738-4d36-981a-4a1bdfeb74e3.png">
+
+Paid Lane from Ganache
+
+<img width="1440" alt="Lane_ganache" src="https://user-images.githubusercontent.com/105394703/196494466-881f50f1-741f-4d7e-9b58-c707caa5ae10.png">
+
+Hire Jo
+
+<img width="1440" alt="Jo" src="https://user-images.githubusercontent.com/105394703/196496904-d14358bd-b8bc-43dc-ac6c-7413de493bac.png">
+
+Paid Jo from Ganache (from the same address)
+
+<img width="1440" alt="Jo_ganache" src="https://user-images.githubusercontent.com/105394703/196497149-de18485c-06d9-4e10-ac91-f0b7b97fb00b.png">
+
 
 ---
 
