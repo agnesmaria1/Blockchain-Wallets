@@ -83,6 +83,11 @@ Paid Jo from Ganache (from the same address)
 
 <img width="1440" alt="Jo_ganache" src="https://user-images.githubusercontent.com/105394703/196497149-de18485c-06d9-4e10-ac91-f0b7b97fb00b.png">
 
+Transaction Details
+
+<img width="1439" alt="Trans" src="https://user-images.githubusercontent.com/105394703/196785282-e0e116df-3bf7-4926-9738-248aa643743e.png">
+
+
 
 ---
 
